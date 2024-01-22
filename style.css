@@ -31,9 +31,10 @@ ul li a {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  opacity: 0.5;
+  opacity: 0.2;
 }
 ul li a:hover {
+  cursor: grab;
   opacity: 1;
 }
 
